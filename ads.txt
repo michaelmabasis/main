@@ -1,1 +1,2 @@
-OWNERDOMAIN=turner.com
+OWNERDOMAIN=google.com
+rubiconproject.com, 18138, RESELLER
